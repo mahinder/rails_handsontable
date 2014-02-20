@@ -1,6 +1,6 @@
 # RailsHandsontable
 
-TODO: Write a gem description
+This gem is created for rails users .
 
 ## Installation
 
@@ -18,7 +18,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add this line to your application's application.js
+
+    //= requirejquery.handsontable.full
+Add this line to your application's application.css
+
+    *= require jquery.handsontable.full
 
 ## Contributing
 
