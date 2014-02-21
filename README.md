@@ -32,3 +32,8 @@ Add this line to your application's application.css
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+HI i will add more features in it to make handsontable more usefull in ruby on rails application .
+Please give your response .
+For know about handsontable please visit http://handsontable.com/ .
