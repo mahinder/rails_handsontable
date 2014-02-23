@@ -1,3 +1,5 @@
+# Browser base Excel In rails gem . Excel can show in html
+
 # RailsHandsontable
 
 This gem is created for rails users .
