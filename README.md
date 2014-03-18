@@ -1,6 +1,8 @@
+# Browser base Excel In rails gem . Excel can show in html
+
 # RailsHandsontable
 
-TODO: Write a gem description
+This gem is created for rails users .
 
 ## Installation
 
@@ -18,7 +20,12 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Add this line to your application's application.js
+
+    //= requirejquery.handsontable.full
+Add this line to your application's application.css
+
+    *= require jquery.handsontable.full
 
 ## Contributing
 
@@ -27,3 +34,8 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+
+HI i will add more features in it to make handsontable more usefull in ruby on rails application .
+Please give your response .
+For know about handsontable please visit http://handsontable.com/ .
