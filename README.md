@@ -22,7 +22,7 @@ Or install it yourself as:
 
 Add this line to your application's application.js
 
-    //= requirejquery.handsontable.full
+    //= require jquery.handsontable.full
 Add this line to your application's application.css
 
     *= require jquery.handsontable.full
